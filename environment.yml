@@ -9,5 +9,6 @@ dependencies:
   - cftime
   - cartopy
   - matplotlib
+  - s3fs
   - pip:
     - dask_labextension
